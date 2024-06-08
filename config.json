@@ -1,0 +1,11 @@
+{
+    "videoPath" : "videos/video2.mp4",
+    "videoFPS" : 30,
+    
+    "frameSkip" : 3,
+    "modelPath" : "model/haarcascade_car.xml",
+    "startROILineDepth" : 720,
+    "endROILineDepth" : 745,
+    "centroidSeparation" : 17
+
+}
